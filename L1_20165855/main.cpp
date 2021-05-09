@@ -343,7 +343,7 @@ int ejecutaJugadaL(char tablero1[][MAXC], int sizeMAXF, int NUMF, int NUMC, int 
 		}
 	}
 	else{ 
-	cout << "Coordenadas invalidas\n"; 
+	cout << "Coordenadas invalidas. Ingrese otras\n"; 
 	}
 	return capturado;
 }
