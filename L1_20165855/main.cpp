@@ -339,7 +339,7 @@ int ejecutaJugadaL(char tablero1[][MAXC], int sizeMAXF, int NUMF, int NUMC, int 
 			}
 		}
 		else {
-			cout << "En esa coordenada no hay pokemon\n"; 
+			cout << "En esa coordenada no hay pokemon. Intente con otra, por favor\n"; 
 		}
 	}
 	else{ 
